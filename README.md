@@ -10,5 +10,5 @@ Let's data talk!
 ***
 ## General info
 * Messi_VS_Ronaldo.pbix file: Power BI file with all data preparartion and visuals.
-* Messi_VS_Ronaldo.pdf: View dashboard in pdf format.
-* Messi_VS_Ronaldo.pptx: Powerpoint file used to design background.
+* Messi_VS_Ronaldo.pdf file: View dashboard in pdf format.
+* Messi_VS_Ronaldo.pptx file: Powerpoint file used to design background.
